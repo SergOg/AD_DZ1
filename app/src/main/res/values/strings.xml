@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DZ#1</string>
+    <string name="message">Все места свободны!</string>
+    <string name="message_free">Осталось мест: </string>
+    <string name="message_full">Пассажиров слишком много!</string>
+    <string name="reset">Сброс</string>
+    <string name="_0">0</string>
+</resources>
